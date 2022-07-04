@@ -1,4 +1,7 @@
 {
   "product": [
+    {"id":1,"name":"American fish eagle","category":"Orange"},
+    {"id":2,"name":"Rat, arboral spiny","category":"Pink"},
+    
   ]
 }
