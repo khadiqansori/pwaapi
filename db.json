@@ -1,0 +1,24 @@
+{
+  "product": [
+    {"id":1,"name":"American fish eagle","category":"Orange"},
+    {"id":2,"name":"Rat, arboral spiny","category":"Pink"},
+    {"id":3,"name":"Black-backed magpie","category":"Mauv"},
+    {"id":4,"name":"Hummingbird (unidentified)","category":"Aquamarine"},
+    {"id":5,"name":"Jackal, indian","category":"Khaki"},
+    {"id":6,"name":"Francolin, coqui","category":"Goldenrod"},
+    {"id":7,"name":"Deer, barasingha","category":"Maroon"},
+    {"id":8,"name":"Red-legged pademelon","category":"Orange"},
+    {"id":9,"name":"Great cormorant","category":"Maroon"},
+    {"id":10,"name":"Squirrel, smith's bush","category":"Aquamarine"},
+    {"id":11,"name":"Heron, little","category":"Khaki"},
+    {"id":12,"name":"Grouse, greater sage","category":"Pink"},
+    {"id":13,"name":"Cape raven","category":"Fuscia"},
+    {"id":14,"name":"Lemur, grey mouse","category":"Puce"},
+    {"id":15,"name":"Pelican, eastern white","category":"Purple"},
+    {"id":16,"name":"Fox, north american red","category":"Crimson"},
+    {"id":17,"name":"Asian elephant","category":"Yellow"},
+    {"id":18,"name":"Great cormorant","category":"Khaki"},
+    {"id":19,"name":"Gazelle, grant's","category":"Pink"},
+    {"id":20,"name":"Nuthatch, red-breasted","category":"Red"}
+  ]
+}
